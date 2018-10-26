@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6e43ce3a7c4274540834dd7b900120a0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hoverProjector: {fileID: 117136, guid: e8615314fa2e8904bb3ac9e5ee2c2b9c, type: 2}
+  - selectionProjector: {fileID: 115082, guid: 8ffba3fa2b0cd4c4db96544c9d85a7fb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
